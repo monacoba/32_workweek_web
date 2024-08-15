@@ -1,6 +1,6 @@
 ---
-layout: default
-title: FAQ
+layout: page
+title: "FAQ"
 permalink: /faq/
 ---
 **There is not enough time for everything I have to do. Wouldn’t this make life more stressful?**

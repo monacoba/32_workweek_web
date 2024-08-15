@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Blog
-permalink: /blog
+layout: page
+title: "Blog"
+permalink: /blog/
 ---
-
-## My Blog Posts
 
 <ul>
   {% for post in site.posts %}
