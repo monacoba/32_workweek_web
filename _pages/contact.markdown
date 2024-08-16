@@ -13,7 +13,9 @@ Get in touch!
   <p>
     <label>Email <input type="email" name="email" required/></label>
   </p>
+  <p>
     <textarea name="desc" placeholder = "Tell us what you think!" rows = "10" cols = "30"/></textarea>
+  </p>
   <p>
     <button type="submit">Send</button>
   </p>
